@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Trivia</string>
+    <string name="title_activity_round_scores">RoundScoresActivity</string>
+    <string name="title_activity_game_round">GameRoundActivity</string>
+</resources>
